@@ -4,6 +4,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 0;
+  font-weight: 700;
+}
 
 html, body {
     margin: 0;
@@ -11,6 +15,7 @@ html, body {
   }
 
   a {
-    text-decoration: none;
+   text-decoration: none;
+   color: #1890FF;
   }
 
