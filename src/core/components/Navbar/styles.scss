@@ -4,7 +4,6 @@
     display: flex;
     align-items: center;    
     height: 62px;
-
     background: #1890FF;      
 }
 
@@ -16,9 +15,12 @@
     font-size: 24px;
     line-height: 32px;
     margin-left: 41px;
-
     color: #FFFFFF;
+}
 
+.nav-logo-text:hover{
+    color: #FFF;
+    text-decoration: none;
 }
 
 
